@@ -9,5 +9,15 @@ Please supply a csv file that looks like
 |DonaldTrump|2|1||
 |Obama|1|||
 |GeorgeBush|3|2||
-|DavidCameron|4||3|
-|TonyBlair|5||4|
+|DavidCameron|4||2|
+|TonyBlair|5||1|
+
+At the moment you need to save this somewhere and then change the hardcoded file path on line 4 the python code.
+
+## Usage
+
+Run the python code. Out is written to the console.
+
+## Output
+
+
