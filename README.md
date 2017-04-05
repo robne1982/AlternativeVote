@@ -16,7 +16,7 @@ At the moment you need to save this somewhere and then change the hardcoded file
 
 ## Usage
 
-Run the python code. Out is written to the console.
+Run the python code. Output is written to the console.
 
 ## Output
 
