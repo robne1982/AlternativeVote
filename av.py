@@ -121,7 +121,7 @@ with open(strPath) as fileCsv:
 
 print '============================================================================================'
 print 'Before round 1 there are ' + str(len(lstScores)) + ' candidates '
-print ' and we have ' + str(len(lstNames)-1) + ' goats voting, but a number were lame '
+print ' and we have ' + str(len(lstNames)-1) + ' goats voting'
 print '============================================================================================'
 
 # Call a round of AV...
