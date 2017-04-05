@@ -61,3 +61,9 @@ The new vote list is as follows
  The winner is declared : Obama
 ============================================================================================
 ```
+
+## Things to note
+
+- Voters are referred to as goats
+- Losing choice ties are all removed simultaneously
+- Dead heats are possible
